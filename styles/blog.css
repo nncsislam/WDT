@@ -1,0 +1,25 @@
+*{
+    margin:0;
+}
+body{
+    padding:20px;
+    background:linear-gradient(180deg,white,skyblue,lightgreen);
+}
+nav > ul > li{
+    display: inline-block;
+    text-align: left;
+    padding: 0px 10px;
+}
+nav > ul > li > a{
+    text-decoration: none;
+}
+main > article > section{
+    padding:10px 20px;
+    border:1px solid gray;
+    margin:10px 20px;
+    box-shadow: 2px 2px 5px;
+}
+main > article > footer{
+    height:300px;
+    color:gray;
+}
